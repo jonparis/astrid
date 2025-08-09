@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.todoroo.astrid.app-mergeDebugResources-39:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/jonparis/.gradle/caches/8.8/transforms/eb58c97912bbf87d0af0ce84a05d2582/transformed/material-1.12.0/res/values-small-v4/values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.todoroo.astrid.app-debug-41:/layout_item_task.xml.flat",
+        "source": "com.todoroo.astrid.app-main-43:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.todoroo.astrid.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.todoroo.astrid.app-main-43:/layout/activity_main.xml"
+    }
+]
